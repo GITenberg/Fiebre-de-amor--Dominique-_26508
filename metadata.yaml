@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32054
     wikipedia: http://en.wikipedia.org/wiki/Eug%C3%A8ne_Fromentin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26508#Fiebre-de-amor--Dominique-
 gutenberg_issued: '2008-09-02'
 gutenberg_type: Text
 identifiers:
